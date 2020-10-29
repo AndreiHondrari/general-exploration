@@ -1,0 +1,13 @@
+[dev-packages]
+
+[packages]
+flask = "*"
+eventlet = "*"
+python-socketio = "*"
+pytest = "*"
+pytest-xdist = "*"
+pytest-cov = "*"
+fastapi = "*"
+
+[requires]
+python_version = "3.9"
